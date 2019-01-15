@@ -8,7 +8,7 @@
 2. Kiosks 
 
 # Payment 
-Most of the kiosks in the country, particularly the capital city Lusaka are owned by money tranfers organzations. 99jobs is designed to incorporate these organizations in the system to coordinate payment and perhaps provide other resources like tablets or internet.
+Most of the kiosks in the country, particularly the capital city Lusaka are owned by money tranfer organzations. 99jobs is designed to incorporate these organizations in the system to coordinate payment and perhaps provide other resources like tablets or internet.
 
 # Security
 TODO 
