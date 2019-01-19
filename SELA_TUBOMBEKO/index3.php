@@ -42,7 +42,8 @@ if(is_null($current_user)) {
       </div>
     </div>
     <div class='jobs-completed'>
-      Jobs completed
+      <h3>Jobs completed</h3>
     </div>
   </main>
+  <footer>© 2019 selatubombeko.com All Rights Reserved  |  connecting job seekers and providers  |  let's work and reduce unemployment</footer>
 </body>
